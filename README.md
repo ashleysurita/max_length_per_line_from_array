@@ -2,9 +2,12 @@
 
 ### Problem:
 ```
-Given an array of words and a max length per line, return an array of strings where each string represents a fully justified line. 
+Given an array of words and a max length per line, return an array of strings 
+where each string represents a fully justified line. 
 
-A fully justified line means that the first letter and last letter in the line should be a letter and not a space, and extra spaces are distributed as evenly as possible.
+A fully justified line means that the first letter and last letter in the line 
+should be a letter and not a space, and extra spaces are distributed as evenly as 
+possible.
 
 Examples
 ["the", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"], k = 16
